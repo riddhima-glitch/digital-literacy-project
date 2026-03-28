@@ -1,1 +1,3 @@
+TASK 1
 
+I designed a one-page digital literacy awareness infographic using Canva. The infographic focuses on the following critical aspects of digital literacy: definition of digital literacy, internet safety best practices such as enabling 2FA, and tips for maintaining a professional online presence. I chose Canva for the following reasons: ease of use and the ability to create high-quality visualizations without the need for advanced knowledge of visual design tools. The most intriguing part of this assignment is discovering how to present complex security concepts in a simplified manner through small icons. The most challenging part of this assignment is achieving the right balance of text and image to make the resource both engaging and informative for batchmates.
