@@ -1,1 +1,3 @@
+TASK 5
 
+The aspect of UPI fraud that surprised me the most was the way fraudsters use "request money" links to dupe people into entering their PINs to receive money. This is due to basic technical misconceptions. Therefore, I will personally ensure that I stop scanning the "request money" sent by unknown people without first verifying the source. I have also come to realize the importance of verifying the name of the person before authorizing a transaction. I will ensure that I spread the word among my peers about the 1930 helpline to ensure that they know what to do in cases of financial cybercrime.
