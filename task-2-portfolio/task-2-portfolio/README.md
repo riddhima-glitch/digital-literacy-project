@@ -1,1 +1,3 @@
+TASK 2
 
+For the digital portfolio, I have created professional accounts on GitHub, LinkedIn, and Kaggle. On GitHub, I have initialized a profile README file and specified the branch and the goal of mastering cloud-native technologies. On LinkedIn, I have added details of my educational background in VIT Bhopal, with the expected graduation year being 2029. On Kaggle, I have maintained a profile for future exploration in the domain of data science. In the next four years, I plan to utilize these platforms to display my work, network with professionals for internships, and establish a professional identity as a B.Tech student.
